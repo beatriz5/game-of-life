@@ -4,13 +4,13 @@ The game of life, but all movements get calculated in the GPU.
 
 ## Demonstration
 
-<br />
-![Sample GIF](docs/octocat_github.gif) 
+<br />![Sample GIF](docs/octocat_github.gif) 
 
 ## Built With
 
 * Visual Studio 2019
-* Nvidia GeForce MX150. Better GPU means bigger board.
+* CUDA Toolkit 10.2
+* Nvidia GeForce MX150 but a better GPU means bigger board.
 
 ## Author
 
