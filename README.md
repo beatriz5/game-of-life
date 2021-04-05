@@ -14,7 +14,7 @@ The game of life, but all movements get calculated in the GPU.
 
 ## Author
 
-* Beatriz @beatriz5
+* Beatriz https://github.com/beatriz5
 * Laura Gil Gomez
 
 ## Acknowledgments
