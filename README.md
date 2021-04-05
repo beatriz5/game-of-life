@@ -20,5 +20,7 @@ The game of life, but all movements get calculated in the GPU.
 ## Acknowledgments
 
 https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
-https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md
+
+https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.mdç
+
 https://www.conwaylife.com/wiki/Conway%27s_Game_of_Life
