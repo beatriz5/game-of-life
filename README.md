@@ -4,7 +4,7 @@ The game of life, but all movements get calculated in the GPU.
 
 ## Demonstration
 
-![](demostration.gif)
+![](demostration-ezgif.gif)
 
 ## Built With
 
@@ -24,3 +24,5 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
 https://github.com/PV-COP/PV-README-TEMPLATE/blob/master/TemplateWithInfo.md
 
 https://www.conwaylife.com/wiki/Conway%27s_Game_of_Life
+
+https://ezgif.com/
