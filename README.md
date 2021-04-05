@@ -4,7 +4,7 @@ The game of life, but all movements get calculated in the GPU.
 
 ## Demonstration
 
-![](ezgif.gif)
+![](demostration.gif)
 
 ## Built With
 
