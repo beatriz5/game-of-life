@@ -11,9 +11,7 @@
 #include <cmath>
 using namespace std;
 
-
-
-//Kernel, deals with movements. Nvidia GPU Global Memory.
+//Kernel, deals with movements. Nvidia GPU Global Memory
 __global__ void gameKernel(int* Md, int* Nd, int* Pd, int Width, int h)
 {
 	int currently = threadIdx.x + blockDim.x * blockIdx.x;
