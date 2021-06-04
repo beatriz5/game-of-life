@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game of Life
 
 The game of life, but all movements get calculated in the GPU. 
 
